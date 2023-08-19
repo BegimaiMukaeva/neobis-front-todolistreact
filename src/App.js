@@ -77,5 +77,4 @@ function TodoTitle() {
 function TodoListText() {
   return <p className="todo-list-text">What's on your todo list?</p>;
 }
-
 export default App;
